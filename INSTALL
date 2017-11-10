@@ -1,0 +1,9 @@
+Building PrettyGoodPrivacy
+
+See doc/readme-qt.rst for instructions on building PrettyGoodPrivacy QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PrettyGoodPrivacy.
+
+See doc/build-*.txt for instructions on building prettygoodprivacyd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PrettyGoodPrivacy.
